@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Wed Jan 14 2026 13:09:31 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://ndc-srvhana.opus-idc.com.br:8100/sap/opu/odata/sap/ZTFN_TESTE_SERVBIND",
+    "appName": "georc",
+    "appTitle": "Geo RC",
+    "appDescription": "An SAP Fiori application.",
+    "appNamespace": "moovi",
+    "ui5Theme": "sap_fiori_3_dark",
+    "ui5Version": "1.114.0",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.20.0",
+    "template": "List Report Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Z_C_CLIENT"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "None"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
