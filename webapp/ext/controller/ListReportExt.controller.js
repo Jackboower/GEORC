@@ -9,7 +9,7 @@ sap.ui.define(["sap/ui/core/Fragment",
                 //alert('Funciona !!!');
                 this._getValueHelpRequest();
             },
-
+// Teste
             _getValueHelpRequest: function () {
                 var oView = this.getView();
 
