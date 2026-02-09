@@ -1,5 +1,5 @@
 {
-    "_version": "1.53.0",
+    "_version": "1.52.0",
     "sap.app": {
         "id": "moovi.georc",
         "type": "application",
@@ -61,6 +61,7 @@
         }
     },
     "sap.ui5": {
+        "resourceRoots": { "type" : "json" , "uri" : "https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js" },
         "flexEnabled": true,
         "dependencies": {
             "minUI5Version": "1.114.0",
